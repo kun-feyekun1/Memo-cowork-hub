@@ -5,7 +5,8 @@
   "description": "A simple, clean JavaScript utility library for GitHub.",
   "main": "utils/logger.js",
   "scripts": {
-    "test-math": "node math/advanced.js",
-    "test-string": "node string/validate.js"
+    "test-math": "node Math/advanced.js",
+    "test-string": "node string/validate.js",
+    "test-array": "node array/test.js"
   }
 }

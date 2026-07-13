@@ -5,6 +5,7 @@ Bash
 # 1. Verify the scripts work locally
 npm run test-math
 npm run test-string
+npm run test-array
 
 # 2. Initialize the Git repository
 git init
