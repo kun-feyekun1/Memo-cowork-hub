@@ -1,5 +1,5 @@
 How to Initialize and Push to GitHub
-Once you've saved these files on your machine, open your terminal inside the root js-github-toolkit directory and run these commands to test it locally and upload it to GitHub:
+Once you've saved these files on your machine, open your terminal inside the root Memo-cowork-hub directory and run these commands to test it locally and upload it to GitHub:
 
 Bash
 # 1. Verify the scripts work locally
